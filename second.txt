@@ -1,0 +1,1 @@
+this is second.txt and it is going to save in stash.
